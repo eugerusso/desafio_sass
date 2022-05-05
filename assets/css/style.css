@@ -1,0 +1,25 @@
+.tarjeta {
+  background-color: rgba(128, 128, 128, 0.336);
+  margin: 1rem 0;
+  border-radius: 0.5rem;
+  border: 1.5px solid #6D85a3;
+}
+
+.banner {
+  width: 100%;
+  background-image: url(../img/bannercafeteria.jpg);
+  height: 300px;
+  background-position: center center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-attachment: fixed;
+}
+
+.banner h1 {
+  font-size: 3rem;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */
